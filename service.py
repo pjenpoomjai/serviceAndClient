@@ -5,9 +5,6 @@ from tensorflow import keras
 import os
 import paho.mqtt.client as mqtt
 import time
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-import json
 
 class_names = ['cat','dog']
 dirname = os.path.dirname(__file__)
