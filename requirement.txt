@@ -1,5 +1,5 @@
 argparse
-git+https://github.com/ppwwyyxx/tensorpack.git
+tensorflow
 paho-mqtt==1.4.0
 numpy==1.14.5
 opencv-python==3.4.3.18
